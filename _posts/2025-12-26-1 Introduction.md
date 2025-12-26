@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Welcome to Jekyll!"
+date: 2025-12-26
+categories: jekyll update
+---
+
 # 1 Introduction
 
 ![image.png](1%20Introduction/image.png)
